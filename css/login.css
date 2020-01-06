@@ -1,0 +1,31 @@
+.row{
+    justify-content: center;
+    background:
+                  rgba(175, 0, 0, 0.2)
+                  url('bgkampret.png')
+                  5px 12px no-repeat;
+  }
+  .form-container{
+    background: white;
+    opacity: 90%;
+    position: absolute;
+    top:90px;
+    width: 300px;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px #000;
+  }
+   .body {
+              background:
+                  rgba(175, 0, 0, 0.2)
+                  url('bgkampret.png')
+                  5px 12px no-repeat;
+  
+              border: 1px solid rgba(175, 0, 0, 0.7);
+              border-radius: 5px;
+              color: #F00;
+              padding: 10px 10px 10px 25px;
+          }
+    body {
+      background-image: url('../images/bgkampret.jpg');
+    }
